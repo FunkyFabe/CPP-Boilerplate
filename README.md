@@ -2,10 +2,6 @@
 
 This boilerplate is thought to be used for the «Testat» in the course C++ at HSR. It contains a basic CMake configurations that shows how to separate executables, libraries and CUTE Tests.
 
-## Project structure 
-
-
-
 ## Run project in CLion
 
 1. Open the project in Clion.
