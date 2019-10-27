@@ -1,0 +1,11 @@
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/lib/CMakeFiles/lib.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/executable/CMakeFiles/rebuild_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/executable/CMakeFiles/executable.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/executable/CMakeFiles/edit_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/tests/CMakeFiles/tests.dir
+/home/fabian/Documents/HSR/CPP-Boilerplate/cmake-build-debug/tests/CMakeFiles/edit_cache.dir

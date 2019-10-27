@@ -1,0 +1,2 @@
+/usr/bin/ar qc libword.a  CMakeFiles/word.dir/word.cpp.o
+/usr/bin/ranlib libword.a
