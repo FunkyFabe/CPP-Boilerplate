@@ -2,9 +2,10 @@
 # refer to the root source directory of the project as ${HELLO_SOURCE_DIR} and
 # to the root binary directory of the project as ${HELLO_BINARY_DIR}.
 cmake_minimum_required(VERSION 3.13)
+
 set(CMAKE_CXX_STANDARD 17)
 
-project (HSR-CPL-TESTAT-2)
+project (HSR-CPL-Boilerplate)
 
 # Recurse into the "Hello" and "Demo" subdirectories. This does not actually
 # cause another cmake executable to run. The same process will walk through
