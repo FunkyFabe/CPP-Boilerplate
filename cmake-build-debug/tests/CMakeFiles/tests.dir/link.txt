@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/tests.dir/src/tests.cpp.o  -o tests -lword 
